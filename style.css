@@ -1,0 +1,13 @@
+.p-welcome{
+
+}
+div{
+    width: 3000px;
+    height: 2000px;
+    background-image: linear-gradient(to top, rgba(0.5,0,0,0.5)50%,rgba(0.5,0,0,0.5)50%), url(20220929_143713.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+
+}
+  
